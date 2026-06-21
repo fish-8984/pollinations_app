@@ -18,7 +18,7 @@
 
 ## 在线演示
 
-[https://fish-8984.github.io/pollinations_app](https://fish-8984.github.io/pollinations_app)
+- [https://fish-8984.github.io/pollinations_app/index.html](https://fish-8984.github.io/pollinations_app/index.html)
 
 ## 本地运行
 
@@ -40,6 +40,4 @@ npx serve .
 - Cloudflare Pages
 
 ## License
-
 MIT
-```
